@@ -1,4 +1,4 @@
-class Solution {
+class Question1_leetcode{
     public int[][] transpose(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
